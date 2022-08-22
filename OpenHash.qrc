@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sha-256.ico</file>
+    </qresource>
+</RCC>
